@@ -1,0 +1,3 @@
+1) abre la termina de esta direccion de carpeta
+2) ejecuta npm install
+3) luego npm run serve
